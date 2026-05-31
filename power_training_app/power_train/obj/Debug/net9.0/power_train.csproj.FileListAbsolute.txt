@@ -1,0 +1,14 @@
+D:\programing\power_training_app\power_train\bin\Debug\net9.0\power_train.exe
+D:\programing\power_training_app\power_train\bin\Debug\net9.0\power_train.deps.json
+D:\programing\power_training_app\power_train\bin\Debug\net9.0\power_train.runtimeconfig.json
+D:\programing\power_training_app\power_train\bin\Debug\net9.0\power_train.dll
+D:\programing\power_training_app\power_train\bin\Debug\net9.0\power_train.pdb
+D:\programing\power_training_app\power_train\obj\Debug\net9.0\power_train.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing\power_training_app\power_train\obj\Debug\net9.0\power_train.AssemblyInfoInputs.cache
+D:\programing\power_training_app\power_train\obj\Debug\net9.0\power_train.AssemblyInfo.cs
+D:\programing\power_training_app\power_train\obj\Debug\net9.0\power_train.csproj.CoreCompileInputs.cache
+D:\programing\power_training_app\power_train\obj\Debug\net9.0\power_train.dll
+D:\programing\power_training_app\power_train\obj\Debug\net9.0\refint\power_train.dll
+D:\programing\power_training_app\power_train\obj\Debug\net9.0\power_train.pdb
+D:\programing\power_training_app\power_train\obj\Debug\net9.0\power_train.genruntimeconfig.cache
+D:\programing\power_training_app\power_train\obj\Debug\net9.0\ref\power_train.dll
